@@ -1,4 +1,4 @@
-# Quantum Variational Classifier
+# Smart Quantum Classifiers: Fine-Tuning Parameters with Optuna for Maximum Accuracy
 
 A quantum machine learning implementation that uses variational quantum circuits to classify Iris dataset samples. This project compares two optimization approaches: COBYLA (classical) and SPSA (Simultaneous Perturbation Stochastic Approximation) for training quantum classifiers.
 
